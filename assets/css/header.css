@@ -1,0 +1,23 @@
+.nav-right {
+    position: absolute;
+    margin-left: 1000px;
+    width: 33px;
+    height: 22px;
+    top: 12px;
+}
+
+.items {
+    padding-right: 15px;
+    padding-left: 25px;
+}
+
+.container img {
+    position: absolute;
+    right: 0px;
+    height: 605px;
+    width: 1373px;
+}
+
+.dropdown {
+    margin-left: 110px;
+}

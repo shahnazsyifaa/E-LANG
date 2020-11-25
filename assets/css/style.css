@@ -1,0 +1,186 @@
+/* NAVBAR */
+
+.navbar {
+    position: fixed;
+    width: 1366px;
+}
+
+.nav-right {
+    position: absolute;
+    margin-left: 1000px;
+    width: 33px;
+    height: 22px;
+    top: 12px;
+}
+
+.items {
+    padding-right: 15px;
+    padding-left: 25px;
+}
+
+.container img {
+    position: absolute;
+    right: 0px;
+    height: 100%;
+    width: 1373px;
+}
+
+.dropdown {
+    margin-left: 110px;
+}
+
+
+/* body */
+
+body {
+    background-color: white;
+}
+
+
+/* container */
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/* side navbar css */
+
+.sidenav {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: -20px;
+    left: 0;
+    background-color: #142E3F;
+    overflow-x: hidden;
+    padding-top: 20px;
+    margin-top: 80px;
+}
+
+.sidenav a {
+    padding: 6px 8px 20px 80px;
+    text-decoration: none;
+    font-size: 16px;
+    color: #C4C4C4;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: white;
+    font-weight: bold;
+}
+
+.profile {
+    text-align: left;
+    color: white;
+    padding: 20px;
+}
+
+
+/* main notif-history */
+
+.txt {
+    text-align: center;
+    color: #11212E;
+    padding-left: 20px;
+    padding-top: 100px;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.detailprof {
+    display: flex;
+    justify-content: space-between;
+}
+
+.detailprof img {
+    position: absolute;
+    border-radius: 100px;
+    border: 5px solid;
+    width: 130px;
+    height: 124px;
+    left: 1170px;
+    margin-top: -50px;
+}
+
+.detailprof h4 {
+    position: absolute;
+    margin-left: -400px;
+}
+
+.tabel {
+    padding-top: 60px;
+}
+
+.fontc-of {
+    color: #90A0B7;
+}
+
+.fontt-landing-of {
+    font-size: 40px;
+}
+
+.alert-of {
+    height: 70px;
+}
+
+.font14-of {
+    font-size: 14px;
+}
+
+.userimg-of {
+    width: 35px;
+    height: 35px;
+    border-radius: 100px;
+}
+
+.fontc-3-of {
+    color: #707683;
+}
+
+
+/* main - dash */
+
+.cari {
+    position: absolute;
+    margin-top: 105px;
+    margin-left: 720px;
+}
+
+.txt2 {
+    position: absolute;
+    margin: 120px;
+    margin-left: 90px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.img2 {
+    position: absolute;
+    margin: 20px;
+    margin-left: 240px;
+    margin-bottom: 20px;
+    padding-bottom: 50px;
+}
+
+.img3 {
+    position: absolute;
+    margin: 20px;
+    margin-left: 250px;
+    margin-bottom: 20px;
+    padding-bottom: 50px;
+}
+
+.txt3 {
+    position: absolute;
+    margin: 120px;
+    margin-left: 110px;
+    text-align: center;
+    padding-top: 30px;
+}
